@@ -1,0 +1,57 @@
+body {
+    color: white;
+    background: rgb(42, 12, 61);
+    margin: 0px;
+    font-family: "matemasie", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(68, 40, 120);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(99, 71, 106);
+    background: black;
+}
+
+.chamada {
+    background: rgb(133, 105, 163);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+ h1 {
+    font-size: 40px;
+ }
+
+ p {
+    font-size: 20px;
+ }
+ img {
+    height: 200px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  .categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+
+
+
+  
